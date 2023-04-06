@@ -5,4 +5,7 @@
     <string name="button2">Открыть вторую Activity</string>
     <string name="button3">Открыть первую Activity</string>
     <string name="button1">Перейти к Activity1</string>
+    <string name="btn_fragment1">Ко второму фрагменту</string>
+    <string name="btn_fragment2">К третьему фрагменту</string>
+    <string name="btn_fragment3">B</string>
 </resources>
