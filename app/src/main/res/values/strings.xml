@@ -2,4 +2,7 @@
     <string name="app_name">Lab_2.0</string>
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="button2">Открыть вторую Activity</string>
+    <string name="button3">Открыть первую Activity</string>
+    <string name="button1">Перейти к Activity1</string>
 </resources>
