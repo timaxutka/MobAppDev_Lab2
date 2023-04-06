@@ -9,8 +9,7 @@
         android:id="@+id/button"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_marginStart="20dp"
-        android:layout_marginTop="400dp"
+        android:layout_gravity="center"
         android:text="@string/button1"  />
 
     <Button
@@ -18,20 +17,23 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_gravity="center_horizontal"
-        android:text="Button" />
+        android:layout_marginTop="50dp"
+        android:text="Первый фрагмент" />
 
     <Button
         android:id="@+id/btn_fragment2"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_gravity="center_vertical"
-        android:text="Button" />
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="90dp"
+        android:text="Второй фрагмент" />
 
     <Button
         android:id="@+id/btn_fragment3"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_gravity="bottom"
-        android:text="Button" />
+        android:layout_gravity="center"
+        android:layout_marginTop="40dp"
+        android:text="Перейти к Activity2" />
 
 </FrameLayout>

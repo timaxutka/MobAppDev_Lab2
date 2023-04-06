@@ -7,5 +7,9 @@
     <string name="button1">Перейти к Activity1</string>
     <string name="btn_fragment1">Ко второму фрагменту</string>
     <string name="btn_fragment2">К третьему фрагменту</string>
-    <string name="btn_fragment3">B</string>
+    <string name="btn_fragment3">К первому фрагменту</string>
+    <string name="textview1">Это первый фрагмент</string>
+    <string name="textview2">Это второй фрагмент</string>
+    <string name="textview3">Это третий фрагмент</string>
+
 </resources>

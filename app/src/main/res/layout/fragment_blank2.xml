@@ -5,17 +5,16 @@
     android:layout_height="match_parent"
     tools:context=".BlankFragment2">
 
-    <!-- TODO: Update blank fragment layout -->
-    <TextView
-        android:layout_width="match_parent"
-        android:layout_height="match_parent"
-        android:text="@string/hello_blank_fragment" />
+
+
 
     <Button
         android:id="@+id/btn_fragment1"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Button" />
+        android:layout_gravity="center"
+        android:layout_marginTop="40dp"
+        android:text="К первому фрагменту" />
 
     <Button
         android:id="@+id/btn_fragment2"
@@ -23,5 +22,12 @@
         android:layout_height="wrap_content"
         android:layout_gravity="center"
         android:text="@string/btn_fragment2" />
+
+    <TextView
+        android:id="@+id/textview2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:text="@string/textview2" />
 
 </FrameLayout>

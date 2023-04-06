@@ -12,4 +12,11 @@
         android:layout_gravity="center"
         android:text="@string/btn_fragment1" />
 
+    <TextView
+        android:id="@+id/textview1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:text="@string/textview1" />
+
 </FrameLayout>
